@@ -5,7 +5,6 @@ sales data warehouse repository designed to store and manage vast amounts of sal
 ## Tools
 
 - PostgreSQL
-- pgAdmin
 - Pentaho
 
 ## [Data Modeling and Design]
